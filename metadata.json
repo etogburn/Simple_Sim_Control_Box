@@ -1,8 +1,7 @@
 {
-  "version":"0.1.0",
-  "file":"firmware.bin",
-  "sha256":"6637dff3186519be846cc7864af8782a2092d933b48bc78f85fa012a5d63b2a0",
-  "url":"https://github.com/etogburn/Golf_Sim_Control_ESP32/releases/download/v0.1.0/firmware.bin",
-  "latest":"https://github.com/etogburn/Golf_Sim_Control_ESP32/releases/latest/download/firmware.bin",
-  "metadata":"https://github.com/etogburn/Golf_Sim_Control_ESP32/releases/latest/download/metadata.json"
+"version":"0.1.1",
+"file":"firmware.bin",
+"sha256":"df7083da42028da55fb4ec94748c2174d6c39daeca2e6df9e1405b41ec634750",
+"url":"https://github.com/etogburn/Simple_Sim_Control_Box/raw/main/firmware.bin",
+"metadata":"https://github.com/etogburn/Simple_Sim_Control_Box/raw/main/metadata.json"
 }
